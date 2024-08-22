@@ -13,7 +13,11 @@ Goals and Objectives
 As a Data Science-focused Computer Science student, I aim to:
 
 Practice Software Engineering: Develop clean, maintainable code using industry best practices.
+
 Integrate Data: Apply data-driven features, such as personalized recommendations.
+
 Solve Problems: Tackle real-world challenges in application development.
+
 Collaborate: Engage with the open-source community for mutual learning.
+
 Build a Portfolio: Showcase my skills in software development and data science.
