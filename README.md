@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Eshahani1/Eshahani1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT ME:
 
-Here are some ideas to get you started:
+Hello everyone I am Eyaan Shahani and I am a Computer Science major at the University of North Carolina at Charlotte. I am currently concentrating on Data Science as that is where my passion lies. I have made this GitHub page to show off some of the things that I have built and some of the projects I have built for classes! My main languages are Python and Java and I love working with databases as well!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects 
+
+BookReader is a user-friendly application designed to enhance your digital reading experience. Whether you're reading for leisure or study, this tool offers an intuitive interface and powerful features to make managing and reading your eBooks more enjoyable.
+
+Key Features:
+Customizable Reading Environment: Adjust fonts, themes, and layout to suit your preferences.
+Library Management: Easily organize your eBooks with tags, categories, and a powerful search function.
+Progress Tracking: Automatically save your place in each book and track your reading history.
+Annotation Tools: Highlight, annotate, and bookmark important passages for easy reference.
+
