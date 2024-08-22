@@ -1,16 +1,15 @@
-## Hi there 👋
+Welcome to My GitHub!
+About Me
+I'm Eyaan Shahani, a Computer Science major at the University of North Carolina at Charlotte with a concentration in Data Science. My passion lies in using Python, Java, and database technologies to build innovative solutions. This GitHub page showcases the projects I've developed, both for academic purposes and personal interest.
 
-ABOUT ME:
+Featured Project: BookReader
+BookReader is an application designed to enhance your digital reading experience with features like customizable reading environments, efficient library management, and progress tracking.
 
-Hello everyone I am Eyaan Shahani and I am a Computer Science major at the University of North Carolina at Charlotte. I am currently concentrating on Data Science as that is where my passion lies. I have made this GitHub page to show off some of the things that I have built and some of the projects I have built for classes! My main languages are Python and Java and I love working with databases as well!
+Goals and Objectives
+As a Data Science-focused Computer Science student, I aim to:
 
-Projects 
-
-BookReader is a user-friendly application designed to enhance your digital reading experience. Whether you're reading for leisure or study, this tool offers an intuitive interface and powerful features to make managing and reading your eBooks more enjoyable.
-
-Key Features:
-Customizable Reading Environment: Adjust fonts, themes, and layout to suit your preferences.
-Library Management: Easily organize your eBooks with tags, categories, and a powerful search function.
-Progress Tracking: Automatically save your place in each book and track your reading history.
-Annotation Tools: Highlight, annotate, and bookmark important passages for easy reference.
-
+Practice Software Engineering: Develop clean, maintainable code using industry best practices.
+Integrate Data: Apply data-driven features, such as personalized recommendations.
+Solve Problems: Tackle real-world challenges in application development.
+Collaborate: Engage with the open-source community for mutual learning.
+Build a Portfolio: Showcase my skills in software development and data science.
